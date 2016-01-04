@@ -5,3 +5,9 @@ url: "http://familientherapie-werthmann.de"
 
 # Build settings
 markdown: kramdown
+exclude:
+  - "bower_components"
+  - "bower.json"
+include:
+  - "bower_components/jquery/dist/jquery.min.js"
+  - "bower_components/foundation-sites/dist/foundation.min.js"
