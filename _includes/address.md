@@ -5,4 +5,4 @@ Werfstraße 248
 
 0431 2210536
 
-[kontakt[at]familientherapie-werthmann.de](mailto:kontakt@familientherapie-werthmann.de?subject=Anfrage)
+kontakt@familientherapie-werthmann.de
