@@ -3,26 +3,24 @@
 ---
 @charset "utf-8";
 
-
-
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: 'Assistant', Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$spacing-unit:     30px;
+$spacing-unit:     2rem;
 
 $text-color:       #111;
 $text-color-light: #eaeaea;
 $background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$brand-color:      #ff9a30;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
-$base-orange:      #ff9a30;
+$base-orange:      $brand-color;
 $base-orange-light: lighten($base-orange, 40%);
 $base-orange-dark:  darken($base-orange, 25%);
 

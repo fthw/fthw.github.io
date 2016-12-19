@@ -1,13 +1,17 @@
 <footer class="footer">
-  <section class="contact">
-    <h2>Kontakt</h2>
-    <address>{% include address.md %}</address>
-  </section>
-  <section>
-    <h2>Sprechzeiten:</h2>
-    <div class="sprechzeiten">{% include sprechzeiten.md %}</div>
+  <div>
+    <section class="contact">
+      <h2>Kontakt</h2>
+      <address>{% include address.md %}</address>
+    </section>
+
+    <section>
+      <h2>Sprechzeiten:</h2>
+      <div class="sprechzeiten">{% include sprechzeiten.md %}</div>
+    </section>
+  </div>
+  <section class="imprint">
+    <h2>Impressum</h2>
+    <p>{% include impressum.md %}</p>
   </section>
 </footer>
-
-<script src="{{ "/bower_components/foundation-sites/dist/foundation.min.js" | prepend: site.baseurl }}"></script>
-<script src="{{ "/bower_components/jquery/dist/jquery.min.js" | prepend: site.baseurl }}"></script>

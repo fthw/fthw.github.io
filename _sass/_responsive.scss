@@ -2,22 +2,21 @@
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 /* Styles */
   body {
-
-  }
-  .page-content {
-      width: 100%;
-      margin: 0;
-      padding: 0;
-
-      & > .main {
-        padding: 0 1em;
-        width: calc(100% - 2em);
-      }
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+    & > * {
+      padding: $spacing-unit/2;
+      width: calc(100% - $spacing-unit/2);
+    }
   }
 
-  .footer > section {
-    display: block;
+  section[role="main"] {
+  }
+
+  footer section {
     float: none;
+    &.imprint p { columns: 1; }
   }
 }
 
@@ -32,21 +31,6 @@
   body {
     background-size: 260%;
     background-position: -190px -170px;
-  }
-  .footer-col {
-      float: none;
-      width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-      width:         calc(100% - (#{$spacing-unit} / 2));
-  }
-  .page-content {
-      width: 100%;
-      margin: 0;
-      padding: 0;
-  }
-  .wrapper {
-      margin-left: 0;
-      padding: 0;
-      width:        100%;
   }
 }
 
