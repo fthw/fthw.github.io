@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# Information
 
 Sich verändern - weil man es will oder weil der Leidensdruck wächst - ist eine Herausforderung. Ich glaube, dass sich Menschen verändern können, dass sie wachsen. Dass sie nicht allein sein wollen und Sinn in ihrem Leben suchen. Nur steht dem oft etwas Hartnäckiges entgegen: Über Jahre gewachsene Selbstverständlichkeiten im Umgang mit sich und Anderen. Wenn man an diesen rührt, wird es schnell existenziell. Gleichzeitig birgt genau das viel Potential. Ich finde das spannend. Menschen, die sich auf diesen Weg machen, nehme ich sehr ernst und zugleich gehe ich davon aus, dass sie alles haben, was sie brauchen, um ihren Weg zu gehen, es im Augenblick bloß nicht sehen.
 

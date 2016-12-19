@@ -8,6 +8,10 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
+html {
+    background-color: white;
+}
+
 /**
  * Basic styling
  */
@@ -17,7 +21,7 @@ body {
     line-height: $base-line-height;
     font-weight: 300;
     color: $text-color;
-    background-color: $background-color;
+    background-color: transparent;
     -webkit-text-size-adjust: 100%;
     hyphens: auto;
 }
@@ -58,14 +62,14 @@ h1, h2, h3, h4, h5, h6 {
  */
 a {
     color: $brand-color;
-    text-decoration: none;
+    // text-decoration: none;
+    text-decoration: underline;
 
-    &:visited {
-        color: darken($brand-color, 15%);
+    &:visited, &:active {
+        color: lighten($brand-color, 15%);
     }
 
     &:hover {
-        color: $text-color;
-        text-decoration: underline;
+        color: darken($brand-color, 15%);
     }
 }
