@@ -2,12 +2,17 @@
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 /* Styles */
   body {
-    text-align: justify;
+    > img {
+      background-size: 200%;
+      background-position: center -4rem;
+    }
+
+    // text-align: justify;
     margin: 0;
-    padding: 0;
+    padding: $spacing-unit/4;
     & > * {
-      padding: $spacing-unit/2;
-      width: calc(100% - $spacing-unit/2);
+      padding: $spacing-unit/4;
+      width: calc(100% - #{$spacing-unit/2});
     }
   }
 
@@ -16,6 +21,7 @@
 
   footer section {
     float: none;
+    width: auto;
     &.imprint p { columns: 1; }
   }
 }
@@ -28,10 +34,6 @@
 /* Smartphones (portrait) ----------- */
 @media only screen and (max-width : 320px) {
   /* Styles */
-  body {
-    background-size: 260%;
-    background-position: -190px -170px;
-  }
 }
 
 /* iPads (portrait and landscape) ----------- */

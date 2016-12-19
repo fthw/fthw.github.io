@@ -27,6 +27,8 @@ $base-orange-dark:  darken($base-orange, 25%);
 $on-palm:          600px;
 $on-laptop:        800px;
 
+$vgr: 12.5vh;
+$hgr: 12.5vw;
 
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
