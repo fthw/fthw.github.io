@@ -2,7 +2,6 @@ body {
     > img {
         position: fixed;
         z-index: -1;
-        background-color: transparent;
         width: 100%;
         height: 100%;
         margin: 0!important;
@@ -16,6 +15,13 @@ body {
         background-size: cover;
         background-origin: padding-box;
         background-position: center -0px;
+    }
+
+    padding: $spacing-unit;
+
+    & > * {
+      padding: $spacing-unit/4;
+      width: calc(100% - #{$spacing-unit/2});
     }
 }
 
@@ -36,54 +42,40 @@ header {
         font-weight: 300;
         color: $base-orange;
         font-size: 12vmin;
-        line-height: 1*$spacing-unit;
+        line-height: 12vmin;
     }
     h2 {
-        color: white;
-        font-size: 4.4vmin;
+        color: $text-color-light;
+        font-size: 4.2vmin;
         line-height: 7vmin;
-        // margin-bottom: 0;
     }
     nav {
-        display: flex;
-        > *:not(:last-child) {
-            padding-right: .25rem;
+        a {
+            font-size: 2.1vmin;
+            color: $text-color-light !important;
+            text-decoration: none;
         }
-        justify-content: space-between;
+        > *:not(:last-child) {
+            &:after {
+                content: '|';
+                color: $base-orange;
+                padding-left: .25rem;
+            }
+        }
     }
 
     position: relative;
     > section {
         width: 100%;
         position: absolute;
-        bottom: 5rem;
-        &.float {
-            position: fixed;
-            z-index: 99999;
-            top: 0;
-            width: 100%;
-            width: calc(100% - 2rem);
-            height: auto;
-            display: inline;
-            padding: 0 $spacing-unit/2;
-            margin-left: -0.5rem;
-            height: 1.5rem;
-            background-color: #FFF;
-            h1, h2 {
-                display: none;
-                font-size: 2rem;
-                line-height: 2rem;
-                margin: 0;
-            }
-            h2 { display: none; }
-            box-shadow: -0px 0 transparent, 0px 0 transparent, 0 1px 30px -10px black;
-        }
+        bottom: 2rem;
     }
 }
 
 section[role="main"] {
-    padding-top: 2em;
-    padding-bottom: 3em;
+    padding: 2rem $spacing-unit 3rem $spacing-unit;
+    margin-left: 3*12.5%;
+    width: 5*12.5%;
     & > p ~ h1 {
     }
     background-color: white;
@@ -132,3 +124,24 @@ footer {
 }
 
 
+header section.float {
+    position: fixed;
+    z-index: 99999;
+    top: 0;
+    width: 100%;
+    width: calc(100% - 2rem);
+    height: auto;
+    display: inline;
+    padding: 0 $spacing-unit/2;
+    margin-left: -0.5rem;
+    height: 1.5rem;
+    background-color: #FFF;
+    h1, h2 {
+        display: none;
+        font-size: 2rem;
+        line-height: 2rem;
+        margin: 0;
+    }
+    h2 { display: none; }
+    box-shadow: -0px 0 transparent, 0px 0 transparent, 0 1px 30px -10px black;
+    }
