@@ -36,9 +36,48 @@ iPad 3
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
 /* Styles */
 }
+
 /* Desktops and laptops ----------- */
-@media only screen  and (min-width : 1224px) {
+@media only screen and (min-width : 1024px) {
 /* Styles */
+  $leftpad: 32vw;
+  body {
+
+    padding-left: $leftpad;
+    // background-color: #ff0;
+  }
+  header {
+    h1 {
+        color: $brand-color;
+        font-size: 72pt;
+        line-height: 42pt;
+    }
+    h2 {
+        color: $text-color-light;
+        font-size: 18pt;
+        font-weight: lighter;
+        line-height: 42pt;
+        margin-bottom: 2rem;
+    }
+    // nav {
+    //   background-color: white;
+    //   width: calc(#{100 - $leftpad} - $spacing-unit);
+    //   :not(.compoact) & {
+    //     max-width: unset;
+    //     a {
+    //       color: $brand-color !important;
+    //     }
+    //   }
+    // }
+    a {
+      text-decoration: underline;
+    }
+  }
+}
+
+@media only screen and (min-width : 1224px) {
+/* Styles */
+
 }
 
 /* Large screens ----------- */
@@ -62,6 +101,11 @@ iPad 3
 
 @media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
 /* Styles */
+  header {
+    $height: 42vh;
+    height: $height;
+    padding-top: #{100 - $height};
+  }
 }
 
 /* iPhone 6 ----------- */

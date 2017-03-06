@@ -22,7 +22,7 @@ body {
     font-weight: 300;
     color: $text-color;
     background-color: transparent;
-    // -webkit-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
     hyphens: auto;
 }
 
@@ -34,20 +34,6 @@ p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 2;
-}
-
-/**
- * Lists
- */
-ul, ol {
-    margin-left: $spacing-unit;
-}
-
-li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
-    }
 }
 
 /**

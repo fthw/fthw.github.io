@@ -13,15 +13,13 @@
       }
 
       var klass = scrollingElement.className;
-
-      if (scrollingElement.scrollTop > initialHeight * 0.8) {
+      var pct = Math.min(1, Math.max(0, scrollingElement.scrollTop/initialHeight));
+      if (pct > 0.7) {
         if (klass !== "compact") {
-          console.debug("flagged as compact");
           scrollingElement.className = "compact";
         }
       } else {
         if (klass === "compact") {
-          console.debug("un-flagged as compact");
           scrollingElement.removeAttribute("class");
         }
       }

@@ -2,7 +2,7 @@
 ---
 # Impressum
 
-### Angaben gemäß § 5 TMG
+## Angaben gemäß § 5 TMG
 
 Sabine Werthmann
 c/o Praxis für Familiencoaching und Paartherapie
@@ -14,7 +14,7 @@ Telefon: 0431 2210536
 
 [kontakt@familientherapie-werthmann.de](mailto:kontakt@familientherapie-werthmann.de)
 
-### Verantwortlich für den Inhalt nach §§ 55 Abs. 2 RStV
+## Verantwortlich für den Inhalt nach §§ 55 Abs. 2 RStV
 
 Sabine Werthmann
 c/o Praxis für Familiencoaching und Paartherapie
