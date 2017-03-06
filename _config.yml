@@ -1,7 +1,21 @@
 # Site settings
-title: Familientherapie Werthmann
-description: ""
+title: Sabine Werthmann
+subtitle: Systemische Einzel-, Paar- und Familientherapie
+description: "Sabine Werthmann, Systemische Einzel-, Paar- und Familientherapie"
 url: "http://familientherapie-werthmann.de"
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+  input: GFM
+  hard_wrap: true
+
+exclude:
+  - "bower_components"
+  - "bower.json"
+gems:
+  - jekyll-minifier
+
+collections:
+  - inhalt

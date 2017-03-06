@@ -1,0 +1,32 @@
+/**
+ * Site footer
+ */
+footer {
+    margin-top: 10em;
+    padding: $spacing-unit;
+    background-color: white;
+    box-sizing: content-box;
+    overflow: hidden;
+
+    & > * {
+        white-space: pre-line;
+        margin-bottom: 2em;
+        width: inherit;
+        float: none;
+        padding-top: $spacing-unit*2;
+        // width: calc(50% - 0.5rem);
+        // float: left;
+    }
+
+    h1 { color: $base-orange; }
+    h1,h2,h3 {
+        font-size: 1.5em;
+    }
+    address {
+        font-style: normal;
+    }
+    #impressum {
+        // width: 100%;
+        h1 { color: $grey-color-dark; }
+    }
+}

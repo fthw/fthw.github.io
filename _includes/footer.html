@@ -1,2 +1,11 @@
-<footer class="site-footer">
+<footer class="footer">
+  <address id="kontakt">
+    {{ site.inhalt | where:"id","/inhalt/kontakt" }}
+  </address>
+  <section id="sprechzeiten">
+    {{ site.inhalt | where:"id","/inhalt/sprechzeiten" }}
+  </section>
+  <section id="impressum">
+    {{ site.inhalt | where:"id","/inhalt/impressum" }}
+  </section>
 </footer>
