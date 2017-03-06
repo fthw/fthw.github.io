@@ -1,17 +1,11 @@
 <footer class="footer">
-  <div>
-    <section id="kontakt">
-      <h2>Kontakt</h2>
-      <address>{% include address.md %}</address>
-    </section>
-
-    <section id="sprechzeiten">
-      <h2>Sprechzeiten:</h2>
-      <div class="sprechzeiten">{% include sprechzeiten.md %}</div>
-    </section>
-  </div>
-  <section class="imprint">
-    <h2>Impressum</h2>
-    <p>{% include impressum.md %}</p>
+  <address id="kontakt">
+    {{ site.inhalt | where:"id","/inhalt/kontakt" }}
+  </address>
+  <section id="sprechzeiten">
+    {{ site.inhalt | where:"id","/inhalt/sprechzeiten" }}
+  </section>
+  <section id="impressum">
+    {{ site.inhalt | where:"id","/inhalt/impressum" }}
   </section>
 </footer>

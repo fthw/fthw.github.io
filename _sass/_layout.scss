@@ -91,38 +91,32 @@ footer {
     box-sizing: content-box;
     overflow: hidden;
 
-    & > *:last-child {
-        width: 100%;
-        p {
-            columns: 2;
-        }
-    }
-    address, .sprechzeiten {
+    & > * {
         white-space: pre-line;
         margin-bottom: 2em;
-    }
-    section {
-        h2 { color: $base-orange; }
         width: calc(50% - 0.5rem);
-        float: right;
+        float: left;
+    }
 
-        &:first-child {
-            float: left;
-        }
+    h1 { color: $base-orange; }
+    h1,h2,h3 {
+        font-size: 1.5em;
+    }
+    address {
+        font-style: normal;
+    }
+    #impressum {
+        // width: 100%;
+        h1 { color: $grey-color-dark; }
     }
 }
 
 
 #information {
-    // visibility: hidden;
     height: 0;
+    margin: 0;
     overflow: hidden;
 }
-
-.imprint {
-    h2 { color: $grey-color-dark; }
-}
-
 
 header section.float {
     position: fixed;
