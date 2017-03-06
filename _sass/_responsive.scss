@@ -59,16 +59,16 @@ iPad 3
         line-height: 42pt;
         margin-bottom: 2rem;
     }
-    // nav {
-    //   background-color: white;
-    //   width: calc(#{100 - $leftpad} - $spacing-unit);
-    //   :not(.compoact) & {
-    //     max-width: unset;
-    //     a {
-    //       color: $brand-color !important;
-    //     }
-    //   }
-    // }
+    nav {
+      width: calc(#{100 - $leftpad} - #{$spacing-unit*2});
+      :not(.compact) & {
+        // max-width: unset;
+      }
+      .compact & {
+        left: $leftpad;
+        // width: calc(#{100 - $leftpad} - $spacing-unit);
+      }
+    }
     a {
       text-decoration: underline;
     }
