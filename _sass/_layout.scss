@@ -2,140 +2,31 @@ body {
     > img {
         position: fixed;
         z-index: -1;
-        width: 100%;
-        height: 100%;
+        width: 100vw;
+        height: 100vh;
         margin: 0!important;
         padding: 0!important;
         top: 0;
         left: 0;
         transform: translateZ(0);
         background-image: url("/assets/home.small.quad.jpg");
+        // background-attachment: fixed;
         background-repeat: no-repeat;
-        background-clip: padding-box;
+        // background-clip: padding-box;
         background-size: cover;
         background-origin: padding-box;
         background-position: center -0px;
     }
 
-    padding: $spacing-unit;
-
-    & > * {
-      padding: $spacing-unit/4;
-      width: calc(100% - #{$spacing-unit/2});
-    }
-}
-
-/**
- * Site header
- */
-header {
-    height: calc(100vh - #{$spacing-unit/2});
-    padding: 0 !important;
-    width: 100% !important;
-    margin-bottom: $spacing-unit;
-
-    h1, h2 {
-        font-weight: 200;
-        margin-bottom: 0.5rem;
-    }
-    h1 {
-        font-weight: 300;
-        color: $base-orange;
-        font-size: 12vmin;
-        line-height: 12vmin;
-    }
-    h2 {
-        color: $text-color-light;
-        font-size: 4.2vmin;
-        line-height: 7vmin;
-    }
-    nav {
-        a {
-            font-size: 2.1vmin;
-            color: $text-color-light !important;
-            text-decoration: none;
-        }
-        > *:not(:last-child) {
-            &:after {
-                content: '|';
-                color: $base-orange;
-                padding-left: .25rem;
-            }
-        }
-    }
-
-    position: relative;
-    > section {
-        width: 100%;
-        position: absolute;
-        bottom: 2rem;
-    }
-}
-
-section[role="main"] {
-    padding: 2rem $spacing-unit 3rem $spacing-unit;
-    margin-left: 3*12.5%;
-    width: 5*12.5%;
-    & > p ~ h1 {
-    }
-    background-color: white;
-}
-
-/**
- * Site footer
- */
-footer {
-    margin-top: 10em;
-    padding: $spacing-unit;
-    background-color: white;
-    box-sizing: content-box;
-    overflow: hidden;
-
-    & > * {
-        white-space: pre-line;
-        margin-bottom: 2em;
-        width: calc(50% - 0.5rem);
-        float: left;
-    }
-
-    h1 { color: $base-orange; }
-    h1,h2,h3 {
-        font-size: 1.5em;
-    }
-    address {
-        font-style: normal;
-    }
-    #impressum {
-        // width: 100%;
-        h1 { color: $grey-color-dark; }
-    }
-}
-
-
-#information {
-    height: 0;
-    margin: 0;
-    overflow: hidden;
-}
-
-header section.float {
-    position: fixed;
-    z-index: 99999;
-    top: 0;
-    width: 100%;
-    width: calc(100% - 2rem);
     height: auto;
-    display: inline;
-    padding: 0 $spacing-unit/2;
-    margin-left: -0.5rem;
-    height: 1.5rem;
-    background-color: #FFF;
-    h1, h2 {
-        display: none;
-        font-size: 2rem;
-        line-height: 2rem;
-        margin: 0;
+    padding: 0;
+
+    & > * {
+      padding: $spacing-unit;
+      width: calc(100% - #{$spacing-unit*2});
     }
-    h2 { display: none; }
-    box-shadow: -0px 0 transparent, 0px 0 transparent, 0 1px 30px -10px black;
-    }
+}
+
+@import "header";
+@import "main";
+@import "footer";

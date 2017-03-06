@@ -2,29 +2,32 @@
 ---
 # Impressum
 
-Angaben gemäß § 5 TMG:
+### Angaben gemäß § 5 TMG
 
 Sabine Werthmann
 c/o Praxis für Familiencoaching und Paartherapie
 Susanne Schneider / Susann Güven
 Werftstraße 248
 24143 Kiel
+
 Telefon: 0431 2210536
-kontakt@familientherapie-werthmann.de
 
-Verantwortlich für den Inhalt nach §§ 55 Abs. 2 RStV:
+[kontakt@familientherapie-werthmann.de](mailto:kontakt@familientherapie-werthmann.de)
 
-Sabine Werthmann  
-c/o Praxis für Familiencoaching und Paartherapie  
-Susanne Schneider / Susann Güven  
-Werftstraße 248  
+### Verantwortlich für den Inhalt nach §§ 55 Abs. 2 RStV
+
+Sabine Werthmann
+c/o Praxis für Familiencoaching und Paartherapie
+Susanne Schneider / Susann Güven
+Werftstraße 248
 24143 Kiel
 
 ## Rechtenachweis
 
 Fotografin: Anne Juretschka
 
-Gestaltung und Programmierung: Jens Alexander Ewald
+Gestaltung und Programmierung:
+[Jens Alexander Ewald](https://lea.io)
 
 ## Datenschutz
 

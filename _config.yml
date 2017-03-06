@@ -6,10 +6,16 @@ url: "http://familientherapie-werthmann.de"
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+  input: GFM
+  hard_wrap: true
+
 exclude:
   - "bower_components"
   - "bower.json"
-# include:
+gems:
+  - jekyll-minifier
 
 collections:
   - inhalt
