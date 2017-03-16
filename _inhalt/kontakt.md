@@ -4,7 +4,7 @@
 
 Sabine Werthmann
 Systemische Therapie (DGSF)
-Werfstraße 248
+Werftstraße 248
 24143 Kiel
 
 Tel: 0431 2210536
