@@ -73,8 +73,6 @@ iPad 3
   footer {
     #kontakt, #sprechzeiten {
       width: calc(50% - 0.25rem);
-      // height: 20rem;
-      float: left;
       & * {
         width: 100%;
         float: none;
