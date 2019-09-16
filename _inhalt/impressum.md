@@ -24,8 +24,6 @@ Werftstraße 248
 
 ## Rechtenachweis
 
-Fotografin: Anne Juretschka
-
 Gestaltung und Programmierung:
 [Jens Alexander Ewald](https://lea.io)
 
