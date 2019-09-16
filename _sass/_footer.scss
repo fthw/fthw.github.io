@@ -28,9 +28,8 @@ footer {
         font-style: normal;
     }
     #impressum {
-        p { font-size: 0.75rem; }
-        margin-top: 10vh;
         h1 { color: $grey-color-dark; }
+        p { font-size: 0.75rem; }
         p ~ h2 {
             margin-top: 2rem;
         }
