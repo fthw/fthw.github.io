@@ -4,7 +4,7 @@
 
 Kleines Seminar für Frauen "Mein erotischer Raum" in Vorbereitung. Schreiben Sie mir gerne für nähere Informationen.
 
-# Information
+# Über meine Praxis
 
 Sich zu verändern - weil man es will oder weil der Leidensdruck wächst - ist eine Herausforderung. Ich glaube, dass sich Menschen verändern können, dass sie wachsen. Dass sie nicht allein sein wollen und Sinn in ihrem Leben suchen. Nur steht dem oft etwas Hartnäckiges entgegen: Über Jahre gewachsene Selbstverständlichkeiten im Umgang mit sich und anderen. Wenn man an diesen rührt, wird es schnell existenziell. Gleichzeitig birgt genau dies viel Potential. Ich finde das spannend. Menschen, die sich auf diesen Weg machen, nehme ich sehr ernst und zugleich gehe ich davon aus, dass sie alles haben, was sie brauchen, um ihren Weg zu gehen, es im Augenblick bloß nicht sehen.
 Ich bin Kulturanthropologin (M.A.) und systemische Therapeutin (DGSF). Ich biete Einzel-, Paar- und Familientherapie sowie Kurse in kreativem Schreiben.
