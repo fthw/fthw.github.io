@@ -9,11 +9,7 @@ footer {
     overflow: hidden;
 
     & > * {
-        // white-space: pre-line;
         margin-bottom: 2em;
-        width: inherit;
-        float: none;
-        padding-top: $spacing-unit*2;
     }
 
     h1 {
