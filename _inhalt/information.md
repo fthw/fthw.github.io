@@ -25,7 +25,7 @@ Mehr zum Selbstverständnis systemischer Arbeit unter *[www.dgsf.org](http://www
 
 # Familie
 
-Die Besonderheit der Systemischen Therapie besteht darin, dass während eines Prozesses wirklich die ganze Familie anwesend sein kann. Dann dauern die Sitzungen meist etwas länger (ca. 90 Minuten), die Abstände zwischen den Treffen sind oft größer (4 bis 8 Wochen), und die Wirkung ist immens und nachhaltig. Klar, weil dann nicht einer allein, sondern alle zugleich am Räderwerk drehen.
+Die Besonderheit der Systemischen Therapie besteht darin, dass während eines Prozesses wirklich die ganze Familie anwesend sein kann. Dann dauern die Sitzungen meist etwas länger (bis zu 90 Minuten), die Abstände zwischen den Treffen sind oft größer (4 bis 8 Wochen), und die Wirkung ist immens und nachhaltig. Klar, weil dann nicht einer allein, sondern alle zugleich am Räderwerk drehen.
 Wer zur Sitzung erscheint und wer nicht, entscheiden Sie untereinander, mit oder ohne Hilfe meinerseits.
 
 
@@ -44,6 +44,6 @@ Nicht immer ist es möglich und vielleicht auch nicht nützlich, Familien oder S
 
 # Kosten
 
+120 Minuten Familien                120,-€
+60 Minuten Paare                     95,-€
 50 Minuten Einzel                    75,-€
-60 Minuten Paare und Familien        95,-€
-
