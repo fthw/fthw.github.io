@@ -40,3 +40,11 @@ Sich als Paar einer Dritten mitzuteilen ist sehr intim. Zugleich ist die Dynamik
 
 Nicht immer ist es möglich und vielleicht auch nicht nützlich, Familien oder Subsysteme zu therapeutischen Gesprächen einzuladen, und oft legen Klienten auch Wert auf ein Gespräch unter vier Augen. Möglicherweise brauchen Sie einen besonders geschützten Raum oder ausreichend Ruhe, um etwas von sich zeigen oder sehen zu können. Es geht dann vielleicht gerade um das, was man nicht wahrnehmen kann, wenn andere dabei sind, und um einen für Sie passenden Umgang damit. 50 Minuten - Ihre Zeit. Ihr Raum.
 
+
+
+# Kosten
+
+50 Minuten Einzelgespräch      75,-€
+60 Minuten Paargespräch        95,-€
+70 Minuten Familiengespräch   120,-€
+
