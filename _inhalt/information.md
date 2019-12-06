@@ -44,7 +44,6 @@ Nicht immer ist es möglich und vielleicht auch nicht nützlich, Familien oder S
 
 # Kosten
 
-50 Minuten Einzelgespräch      75,-€
-60 Minuten Paargespräch        95,-€
-70 Minuten Familiengespräch   120,-€
+50 Minuten Einzel                    75,-€
+60 Minuten Paare und Familien        95,-€
 
