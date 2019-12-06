@@ -44,6 +44,6 @@ Nicht immer ist es möglich und vielleicht auch nicht nützlich, Familien oder S
 
 # Kosten
 
-120 Minuten Familien                120,-€
+90 Minuten Familien                 120,-€
 60 Minuten Paare                     95,-€
 50 Minuten Einzel                    75,-€
