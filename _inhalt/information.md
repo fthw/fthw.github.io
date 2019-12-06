@@ -9,7 +9,7 @@ Kleines Seminar für Frauen "Mein erotischer Raum" in Vorbereitung. Schreiben Si
 # Über meine Praxis
 
 Mich zu ändern - weil ich es will oder weil der Leidensdruck wächst - ist eine Herausforderung. Ich glaube, dass Menschen dies können, dass sie wachsen. Dass sie nicht allein sein wollen und Sinn in ihrem Leben suchen. Nur steht dem oft etwas Hartnäckiges entgegen: Über Jahre gewachsene Selbstverständlichkeiten im Umgang mit sich und anderen. Wenn man an diesen rührt, wird es schnell existenziell. Gleichzeitig birgt genau das viel Potential. Ich finde das spannend. Alle, die sich auf diesen Weg machen, nehme ich sehr ernst, und zugleich gehe ich davon aus, dass sie alles haben, was sie brauchen, um ihren Weg zu gehen, es im Augenblick bloß nicht sehen.
-Ich habe Kulturanthropologie und Politische Wissenschaft studiert, mich zur Systemischen Therapeutin (DGSF) weitergebildet und eine Fortbildung in Systemischer Sexualtherapie bei Ulrich Clement und Angelika Eck besucht. Ich biete Einzel-, Paar- und Familientherapie sowie Kurse in kreativem Schreiben und neuerdings auch zum Thema weibliche Lust.
+Ich habe Kulturanthropologie und Politische Wissenschaft studiert, mich zur Systemischen Therapeutin (DGSF) weitergebildet und eine Fortbildung in Systemischer Sexualtherapie bei Ulrich Clement und Angelika Eck besucht. Ich biete Einzel-, Paar- und Familientherapie an sowie Kurse in kreativem Schreiben und neuerdings auch zum Thema weibliche Lust.
 
 
 
