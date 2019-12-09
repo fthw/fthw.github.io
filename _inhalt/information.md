@@ -42,7 +42,7 @@ Nicht immer ist es möglich und vielleicht auch nicht nützlich, Familien oder S
 
 
 
-# Kosten
+# Honorar
 
 90 Minuten Familien                 120,-€
 60 Minuten Paare                     95,-€
