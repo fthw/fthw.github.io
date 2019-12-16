@@ -2,7 +2,14 @@
 ---
 # Aktuelles
 
-Kleines Seminar für Frauen "Mein erotischer Raum" in Vorbereitung. Schreiben Sie mir gerne für nähere Informationen.
+"Mein erotischer Raum" ist ein Workshop über die Lust, der sich an Frauen wendet, die neugierig darauf sind, Ideen Systemischer Sexualtherapie an sich selbst zu erfahren.
+Was kann ich tun, wenn ich keine Lust verspüre, wenn die Sexualität in einer langjährigen Beziehung eingeschlafen ist, oder wenn ein Paar Eltern wird und der Raum für Erotik schrumpft oder gar verschwindet? In der typischen Paardynamik (einer fordert, der andere will nicht), die manchmal keinen eigenen Raum lässt, ist es ebenso wichtig (und erlaubt), ein klares "Nein" zur Verfügung zu haben als auch ein "Ja".
+Ausgehend von einem weiten Erotikbegriff darf der individuelle erotische Raum samt seiner Grenzen erkundet, etabliert, vielleicht erweitert oder auch begrenzt und beschützt werden. Fragen an den Körper, die Sinne und die Fantasie spielen hierbei eine große Rolle und bereichern die individuelle und dialogische Selbstreflexion rund um das eigene Begehren.
+Der Workshop findet in einem geschützten Raum statt, wir bleiben alle angezogen und berühren weder uns noch andere intim.
+Samstag, 18.01.2020, von 10 bis 18 Uhr
+Werftstraße 248 in Kiel
+max. 8 Teilnehmerinnen
+55,- €
 
 
 
