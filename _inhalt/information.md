@@ -50,6 +50,6 @@ Nicht immer ist es möglich und vielleicht auch nicht nützlich, Familien oder S
 # Honorar
 
 Einzel 50 Minuten 75,-€
-Paar 80 Minuten 120,-€
+Paar 80 Minuten 110,-€
 Paar im Co 80 Minuten 170,-€
 Familien (ausschließlich im Co) 80 Minuten 170,-€
