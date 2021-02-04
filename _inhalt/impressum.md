@@ -26,6 +26,8 @@ Werftstraße 248
 
 Gestaltung und Programmierung:
 [Jens Alexander Ewald](https://lea.io)
+Portraitfotografie:
+[Anne Juka](https://annejuka.de)
 
 ## Datenschutz
 
