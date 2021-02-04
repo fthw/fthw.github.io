@@ -4,7 +4,7 @@
 
 Momentan erlauben es mir die Umstände leider nicht oder nur eingeschränkt, über das therapeutische Setting hinaus weitere Angebote zu machen.
 Sobald dies wieder möglich ist, freue ich mich, erneut den Workshop "Raum für Lust" exklusiv für Frauen anzubieten, die sich mit Sinn- und Weiblichkeit auseinandersetzen wollen. 
-An Männer und Frauen - Singles wie Paare gleichermaßen - wird sich das Seminar "Die Kunst des Begehrens" richten, das ich gemeinsam mit meinem Kollegen Frank Henrich anbiete.
+An Männer und Frauen - Singles wie Paare gleichermaßen - wird sich das Seminar "Die Kunst des Begehrens" richten, das ich gemeinsam mit meinem Kollegen *[Frank Henrich](https://www.systemtherapeutische-praxis-sh.de)* anbiete.
 Weitere Details erfragen Sie gern per E-Mail oder Telefon. Termine diesbezüglich werden, sobald verbindlich möglich, hier bekannt gegeben.
 
 
