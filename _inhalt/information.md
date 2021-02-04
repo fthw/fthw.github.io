@@ -2,21 +2,21 @@
 ---
 # Aktuelles
 
-"Mein erotischer Raum" ist ein Workshop über die Lust, der sich an Frauen wendet, die neugierig darauf sind, Ideen Systemischer Sexualtherapie an sich selbst zu erfahren.
-Was kann ich tun, wenn ich keine Lust verspüre, wenn die Sexualität in einer langjährigen Beziehung eingeschlafen ist, oder wenn ein Paar Eltern wird und der Raum für Erotik schrumpft oder gar verschwindet? In der typischen Paardynamik (einer fordert, der andere will nicht), die manchmal keinen eigenen Raum lässt, ist es ebenso wichtig (und erlaubt), ein klares "Nein" zur Verfügung zu haben als auch ein "Ja".
-Ausgehend von einem weiten Erotikbegriff darf der individuelle erotische Raum samt seiner Grenzen erkundet, etabliert, vielleicht erweitert oder auch begrenzt und beschützt werden. Fragen an den Körper, die Sinne und die Fantasie spielen hierbei eine große Rolle und bereichern die individuelle und dialogische Selbstreflexion rund um das eigene Begehren.
-Der Workshop findet in einem geschützten Raum statt, wir bleiben alle angezogen und berühren weder uns noch andere intim.
-Samstag, 18.01.2020, von 10 bis 18 Uhr
-Werftstraße 248 in Kiel
-max. 8 Teilnehmerinnen
-55,- €
+Momentan erlauben es mir die Umstände leider nicht oder nur eingeschränkt, über das therapeutische Setting hinaus weitere Angebote zu machen.
+Sobald dies wieder möglich ist, freue ich mich, erneut den Workshop Raum für Lust exklusiv für Frauen anzubieten, die sich mit Sinn- und Weiblichkeit auseinandersetzen wollen. 
+An Männer und Frauen - Singles wie Paare gleichermaßen - wird sich das Seminar Die Kunst des Begehrens richten, das ich gemeinsam mit meinem Kollegen Frank Henrich anbiete.
+Weitere Details erfragen Sie gern per E-Mail oder Telefon. Termine diesbezüglich werden, sobald verbindlich möglich, hier bekannt gegeben.
 
 
 
-# Über meine Praxis
 
-Mich zu ändern - weil ich es will oder weil der Leidensdruck wächst - ist eine Herausforderung. Ich glaube, dass Menschen dies können, dass sie wachsen. Dass sie nicht allein sein wollen und Sinn in ihrem Leben suchen. Nur steht dem oft etwas Hartnäckiges entgegen: Über Jahre gewachsene Selbstverständlichkeiten im Umgang mit sich und anderen. Wenn man an diesen rührt, wird es schnell existenziell. Gleichzeitig birgt genau das viel Potential. Ich finde das spannend. Alle, die sich auf diesen Weg machen, nehme ich sehr ernst, und zugleich gehe ich davon aus, dass sie alles haben, was sie brauchen, um ihren Weg zu gehen, es im Augenblick bloß nicht sehen.
-Ich habe Kulturanthropologie und Politische Wissenschaft studiert, mich zur Systemischen Therapeutin (DGSF) weitergebildet und eine Fortbildung in Systemischer Sexualtherapie bei Ulrich Clement und Angelika Eck besucht. Ich biete Einzel-, Paar- und Familientherapie an sowie Kurse in kreativem Schreiben und neuerdings auch zum Thema weibliche Lust.
+# Praxis
+
+Wenn Sie zu mir in die Praxis kommen, will ich wissen, wo Sie im Leben stehen, wohin Sie wollen und welche Hindernisse Ihnen im Weg sind. Sie werden Konflikte mitbringen, Streit oder Sorgen. Verletzungen. Sehnsüchte und Fantasien. Widersprüche. Krisen.
+Seit ich denken kann interessiert mich diese Ambivalenz zwischen unseren Sehnsüchten und der gelebten Realität - im Alltag, im Beruf, in Beziehungen.
+Ich betrachte das, was wir begehren, wonach es uns verlangt, als eine Art Kompass auf dem Weg zu mehr Lebendigkeit und Kraft, selbst dann, wenn es uns in extrem herausfordernde Situationen bringt. Auch die Pole unserer Geschlechtsidentität, Mannsein, Frausein, und ihre Anziehung - Sexualität, Intimität - spielen hierbei eine große Rolle. Gesehen und respektiert werden, ganz so wie wir sind, wachsen dürfen, wie es uns entspricht - sind tiefe Bedürfnisse von uns allen.
+Ich glaube, dass Menschen sich ändern können. Nur steht dem oft etwas Hartnäckiges entgegen: Über Jahre gediehene Selbstverständlichkeiten im Umgang mit sich und anderen. Rühren wir an diesen, wird es bald existenziell. Ich unterstütze Sie bei Ihrem Aufbruch und während Sie diesen Weg gehen, verlässlich, auch neugierig, denn ich bin sicher, dass Sie vieles, was sie hierbei brauchen, zur Verfügung haben - es im Augenblick bloß nicht sehen.
+
 
 
 
@@ -30,6 +30,7 @@ Mehr zum Selbstverständnis systemischer Arbeit unter *[www.dgsf.org](http://www
 
 
 
+
 # Familie
 
 Die Besonderheit der Systemischen Therapie besteht darin, dass während eines Prozesses wirklich die ganze Familie anwesend sein kann. Dann dauern die Sitzungen meist etwas länger (bis zu 90 Minuten), die Abstände zwischen den Treffen sind oft größer (4 bis 8 Wochen), und die Wirkung ist immens und nachhaltig. Klar, weil dann nicht einer allein, sondern alle zugleich am Räderwerk drehen.
@@ -37,9 +38,12 @@ Wer zur Sitzung erscheint und wer nicht, entscheiden Sie untereinander, mit oder
 
 
 
+
 # Paar
 
 Sich als Paar einer Dritten mitzuteilen ist sehr intim. Zugleich ist die Dynamik, die innerhalb einer Paarbeziehung besteht, ein Sturm, den ich gerade dann gut verstehen kann, wenn ich ihn live erfahre, und nicht, wenn nur eine davon erzählt. Dann ist der Prozess ein anderer, weil wir mittendrin und währenddessen arbeiten und nicht im Einzel vorher oder wenn alles wieder ruhig ist. Dann können Sie zeitgleich Schritte wagen, aufeinander zu. Oder voneinander weg.
+Auf Wunsch arbeite ich im Co mit meinem Kollegen Frank Henrich, wahlweise in Kiel oder Eutin. Wir sitzen dann als "Paar" Ihnen als Paar gegenüber. Die Erfahrung lehrt uns, dass dies den therapeutischen Prozess wesentlich voranbringt - selbstverständlich während der Sitzung, aber auch durch die Möglichkeit intensiver Nachbesprechung.
+
 
 
 
@@ -49,8 +53,10 @@ Nicht immer ist es möglich und vielleicht auch nicht nützlich, Familien oder S
 
 
 
+
 # Honorar
 
-90 Minuten Familien                 120,-€
-60 Minuten Paare                     95,-€
-50 Minuten Einzel                    75,-€
+Einzel                          50 Minuten                      75,-€
+Paar                            80 Minuten                     120,-€
+Paar (im Co)                    80 Minuten                     170,-€
+Familien (ausschließlich im Co) 80 Minuten                     170,-€
