@@ -3,10 +3,9 @@
 # Aktuelles
 
 Momentan erlauben es mir die Umstände leider nicht oder nur eingeschränkt, über das therapeutische Setting hinaus weitere Angebote zu machen.
-Sobald dies wieder möglich ist, freue ich mich, erneut den Workshop Raum für Lust exklusiv für Frauen anzubieten, die sich mit Sinn- und Weiblichkeit auseinandersetzen wollen. 
-An Männer und Frauen - Singles wie Paare gleichermaßen - wird sich das Seminar Die Kunst des Begehrens richten, das ich gemeinsam mit meinem Kollegen Frank Henrich anbiete.
+Sobald dies wieder möglich ist, freue ich mich, erneut den Workshop "Raum für Lust" exklusiv für Frauen anzubieten, die sich mit Sinn- und Weiblichkeit auseinandersetzen wollen. 
+An Männer und Frauen - Singles wie Paare gleichermaßen - wird sich das Seminar "Die Kunst des Begehrens" richten, das ich gemeinsam mit meinem Kollegen Frank Henrich anbiete.
 Weitere Details erfragen Sie gern per E-Mail oder Telefon. Termine diesbezüglich werden, sobald verbindlich möglich, hier bekannt gegeben.
-
 
 
 
@@ -16,7 +15,6 @@ Wenn Sie zu mir in die Praxis kommen, will ich wissen, wo Sie im Leben stehen, w
 Seit ich denken kann interessiert mich diese Ambivalenz zwischen unseren Sehnsüchten und der gelebten Realität - im Alltag, im Beruf, in Beziehungen.
 Ich betrachte das, was wir begehren, wonach es uns verlangt, als eine Art Kompass auf dem Weg zu mehr Lebendigkeit und Kraft, selbst dann, wenn es uns in extrem herausfordernde Situationen bringt. Auch die Pole unserer Geschlechtsidentität, Mannsein, Frausein, und ihre Anziehung - Sexualität, Intimität - spielen hierbei eine große Rolle. Gesehen und respektiert werden, ganz so wie wir sind, wachsen dürfen, wie es uns entspricht - sind tiefe Bedürfnisse von uns allen.
 Ich glaube, dass Menschen sich ändern können. Nur steht dem oft etwas Hartnäckiges entgegen: Über Jahre gediehene Selbstverständlichkeiten im Umgang mit sich und anderen. Rühren wir an diesen, wird es bald existenziell. Ich unterstütze Sie bei Ihrem Aufbruch und während Sie diesen Weg gehen, verlässlich, auch neugierig, denn ich bin sicher, dass Sie vieles, was sie hierbei brauchen, zur Verfügung haben - es im Augenblick bloß nicht sehen.
-
 
 
 
@@ -30,12 +28,10 @@ Mehr zum Selbstverständnis systemischer Arbeit unter *[www.dgsf.org](http://www
 
 
 
-
 # Familie
 
 Die Besonderheit der Systemischen Therapie besteht darin, dass während eines Prozesses wirklich die ganze Familie anwesend sein kann. Dann dauern die Sitzungen meist etwas länger (bis zu 90 Minuten), die Abstände zwischen den Treffen sind oft größer (4 bis 8 Wochen), und die Wirkung ist immens und nachhaltig. Klar, weil dann nicht einer allein, sondern alle zugleich am Räderwerk drehen.
 Wer zur Sitzung erscheint und wer nicht, entscheiden Sie untereinander, mit oder ohne Hilfe meinerseits.
-
 
 
 
@@ -46,11 +42,9 @@ Auf Wunsch arbeite ich im Co mit meinem Kollegen Frank Henrich, wahlweise in Kie
 
 
 
-
 # Einzel
 
 Nicht immer ist es möglich und vielleicht auch nicht nützlich, Familien oder Subsysteme zu therapeutischen Gesprächen einzuladen, und oft legen Klienten auch Wert auf ein Gespräch unter vier Augen. Möglicherweise brauchen Sie einen besonders geschützten Raum oder ausreichend Ruhe, um etwas von sich zeigen oder sehen zu können. Es geht dann vielleicht gerade um das, was man nicht wahrnehmen kann, wenn andere dabei sind, und um einen für Sie passenden Umgang damit. 50 Minuten - Ihre Zeit. Ihr Raum.
-
 
 
 
