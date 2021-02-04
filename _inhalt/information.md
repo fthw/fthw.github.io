@@ -38,7 +38,7 @@ Wer zur Sitzung erscheint und wer nicht, entscheiden Sie untereinander, mit oder
 # Paar
 
 Sich als Paar einer Dritten mitzuteilen ist sehr intim. Zugleich ist die Dynamik, die innerhalb einer Paarbeziehung besteht, ein Sturm, den ich gerade dann gut verstehen kann, wenn ich ihn live erfahre, und nicht, wenn nur eine davon erzählt. Dann ist der Prozess ein anderer, weil wir mittendrin und währenddessen arbeiten und nicht im Einzel vorher oder wenn alles wieder ruhig ist. Dann können Sie zeitgleich Schritte wagen, aufeinander zu. Oder voneinander weg.
-Auf Wunsch arbeite ich im Co mit meinem Kollegen Frank Henrich, wahlweise in Kiel oder Eutin. Wir sitzen dann als "Paar" Ihnen als Paar gegenüber. Die Erfahrung lehrt uns, dass dies den therapeutischen Prozess wesentlich voranbringt - selbstverständlich während der Sitzung, aber auch durch die Möglichkeit intensiver Nachbesprechung.
+Auf Wunsch arbeite ich im Co mit meinem Kollegen *[Frank Henrich](https://www.systemtherapeutische-praxis-sh.de)*, wahlweise in Kiel oder Eutin. Wir sitzen dann als "Paar" Ihnen als Paar gegenüber. Die Erfahrung lehrt uns, dass dies den therapeutischen Prozess wesentlich voranbringt - selbstverständlich während der Sitzung, aber auch durch die Möglichkeit intensiver Nachbesprechung.
 
 
 
